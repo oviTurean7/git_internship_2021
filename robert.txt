@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>Year of birth: 1998</p>
+<p>Favorite Color: green</p>
+</body>
+</html>
