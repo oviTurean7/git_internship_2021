@@ -3,5 +3,11 @@
 <body>
 <p>Year of birth: 1998</p>
 <p>Favorite Color: green</p>
+<a href="">Robert's CV</a>
+<p>Hometown: Roman</p>
+<p>Favorite pet: Dog</p>
+<p>Favorite sport: cycling</p>
+<a href="">Places</a>
+<p>Shoe size: 41</p>
 </body>
 </html>
