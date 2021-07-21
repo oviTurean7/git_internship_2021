@@ -1,3 +1,7 @@
 /RG-ignored.txt
 norbi-ignored.txt
+<<<<<<< HEAD
 /rg_ignored-folder
+=======
+/norbi-ignored-folder
+>>>>>>> efaac646f6ba280829136228c7e6fec3a4f57350
